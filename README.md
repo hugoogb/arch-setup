@@ -5,7 +5,6 @@ In this repo you will have my Arch Linux setup that conitues my [Arch Linux inst
 # Table of contents
 
 - [Arch linux setup](#arch-linux-setup)
-  - [Install git](#install-git)
   - [Clone and execute script](#clone-and-execute-script)
   - [Curl command](#curl-command)
 - [Keybindings](#keybindings)
